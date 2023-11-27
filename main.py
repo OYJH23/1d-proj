@@ -1,2 +1,3 @@
 import tkinter
-print('Imported')
+print('Imported hello')
+print('hi')
